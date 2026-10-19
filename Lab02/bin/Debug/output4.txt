@@ -1,0 +1,6 @@
+﻿25520001 | Nguyen Van A | ĐTB: 8.17
+25520002 | Tran Thi B | ĐTB: 8.50
+23520003 | Le Van C | ĐTB: 7.17
+24520004 | Pham Thi D | ĐTB: 8.17
+26520005 | Hoang Van E | ĐTB: 6.50
+23502345 | Nguyễn Văn Nam | ĐTB: 6.33

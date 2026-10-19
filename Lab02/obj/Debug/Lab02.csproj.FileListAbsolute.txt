@@ -1,0 +1,15 @@
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\input1.txt
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\input3.txt
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\input4.txt
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\input5.txt
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\Lab02.exe
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\Lab02.pdb
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\System.Data.SQLite.dll
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.Up2Date
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.exe
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.pdb
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.FrmMain.resources
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+F:\School\UIT_Docs\nam4\laptrinhmang\ThucHanh\lab2\Lab02\Lab02\bin\Debug\System.Data.SQLite.xml

@@ -1,0 +1,5 @@
+﻿7
+3
+21
+3
+Lỗi dòng 5: Không thể chia cho 0.

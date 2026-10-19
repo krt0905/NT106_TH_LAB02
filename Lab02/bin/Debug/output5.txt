@@ -1,0 +1,12 @@
+﻿BÁO CÁO DOANH THU PHÒNG VÉ
+Phim | Vé bán | Vé còn lại | Tỷ lệ bán | Doanh thu
+Mai | 1 | 12 | 7.69% | 100,000 đ
+Gặp lại chị bầu | 1 | 12 | 7.69% | 70,000 đ
+Tarot | 1 | 12 | 7.69% | 22,500 đ
+Đào, phở và piano | 1 | 12 | 7.69% | 11,250 đ
+
+Xếp hạng doanh thu:
+1. Mai — 100,000 đ
+2. Gặp lại chị bầu — 70,000 đ
+3. Tarot — 22,500 đ
+4. Đào, phở và piano — 11,250 đ
